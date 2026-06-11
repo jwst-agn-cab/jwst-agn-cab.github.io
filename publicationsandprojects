@@ -1,0 +1,153 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>News | JWST–AGN Project</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <style>
+    article {
+      margin-bottom: 3em;
+    }
+    h3 {
+      margin-bottom: 0.2em;
+    }
+    .date {
+      color: #777;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body class="no-sidebar is-preload">
+  <div id="page-wrapper">
+
+    <!-- Header -->
+    <div id="header-wrapper-home">
+      <div class="container">
+        <header id="header">
+          <div class="inner">
+            <h1><a href="index.html" id="logo">JWST–AGN Project</a></h1>
+            <nav id="nav">
+              <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li class="current_page_item"><a href="publicationsandprojects.html">News</a></li>
+                <li><a href="team.html">News</a></li>
+              </ul>
+            </nav>
+          </div>
+        </header>
+
+        <div id="banner">
+          <h2>News & Updates</h2>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main -->
+    <section>
+    <header class="major">
+    <h2>Research Output</h2>
+    </header>
+
+    <div class="row">
+    
+        <!-- Publications -->
+        <div class="col-6 col-12-medium">
+          <section>
+            <h3>First-Author Publications</h3>
+    
+            <ul>
+              <li>
+                <strong>Perna et al. (2026)</strong><br>
+                AGN activity in a Lyα emitter within a triple-AGN system...
+              </li>
+    
+              <li>
+                <strong>Perna et al. (2025)</strong><br>
+                The highest-redshift ring galaxy candidate from a head-on collision
+              </li>
+    
+              <li>
+                <strong>Perna et al. (2025)</strong><br>
+                A galaxy-wide outflow in a Compton-thick mini-BAL quasar
+              </li>
+            </ul>
+    
+          </section>
+        </div>
+    
+        <!-- Proposals -->
+        <div class="col-6 col-12-medium">
+          <section>
+            <h3>Approved Proposals</h3>
+    
+            <ul>
+              <li>
+                <strong>JWST Cycle 5</strong><br>
+                Probing AGN feedback at cosmic noon
+              </li>
+    
+              <li>
+                <strong>ALMA Cycle 13</strong><br>
+                Molecular gas in dual AGN systems
+              </li>
+    
+              <li>
+                <strong>VLT/MUSE</strong><br>
+                The Physics of ULIRGs with MUSE
+              </li>
+            </ul>
+    
+          </section>
+        </div>
+    
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <div id="footer-wrapper">
+		<footer id="footer" class="container">
+		  <div class="row">
+			  <!-- Contact Section (Left) -->
+			  <div class="col-8 col-12-medium">
+				<section>
+				  <h2>Contact</h2>
+				  <p>
+					<a href="mailto:mperna@cab.inta-csic.es">mperna@cab.inta-csic.es</a> | 
+					<a href="mailto:igarcia@cab.inta-csic.es">igarcia@cab.inta-csic.es</a><br />
+					Centro de Astrobiología (CAB, CSIC-INTA)<br />
+					Madrid, Spain<br />
+				  </p>
+				</section>
+			  </div>
+		
+			  <!-- Funding Logos (Right) -->
+			  <div class="col-4 col-12-medium" style="text-align: right;">
+				<section style="display: inline-block; text-align: center;">
+				  <img src="images/MICIU+Cofinanciado+AEI.jpg" 
+					   alt="AEI and MICIU Logos"
+					   style="height: 70px; margin-bottom: 8px;">
+				  <p style="font-size: 0.9em; max-width: 400px; margin: auto; text-align: justify;">
+					Supported by the Agencia Estatal de Investigación (AEI) and the 
+					Ministerio de Ciencia, Innovación y Universidades (MICIU), 
+					co-funded by the FEDER and FSE+ programs.
+				  </p>
+				</section>
+			  </div>
+			</div>
+		
+			<!-- Copyright -->
+			<div class="row">
+			  <div class="col-12">
+				<div id="copyright">
+				  <ul class="menu">
+					<li>&copy; 2025 JWST–AGN Project. All rights reserved.</li>
+					<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				  </ul>
+				</div>
+			  </div>
+			</div>
+		</footer>
+
+	  </div>
